@@ -23,11 +23,7 @@ To view or run this project locally:
 Clone the repository:
 
    git clone git@github.com:AntonioHo-Yen/facebook-practice.git
-
-or
-view on netlify
-
-   https://ah-fb-clone.netlify.app
+   
 
 legal notice
 
